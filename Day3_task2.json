@@ -1,0 +1,65 @@
+Day 3 task 2:
+============
+2. Create your own resume data in JSON format
+
+{
+  "basics": {
+    "name": "Nagendhiran.R",
+    "label": "",
+    "picture": "",
+    "email": "Nagendhiranr97@gmail.com",
+    "phone": 9095796073,
+    "degree": "B.E",
+    "summary": "A one-sentence to one-paragraph overview text. Do not include any line-breaks.",
+    "location": {
+      "address": "23D,Akrakaram,Palanganatham,Madurai,Tamilnadu",
+      "postalCode": "625003",
+      "city": "Madurai",
+      "countryCode": "India",
+      "region": "South"
+    },
+  },
+  "work": [
+    {
+      "company": "Hitasoft Technology solutions",
+      "position": "PHP developer",
+      "startDate": "DEC 2019",
+      "endDate": "NOV 2021",
+      "summary": "I have around two years experiance in server side installation and php pug fixes and PHP Laravel framework",
+    }
+  ],
+  "education": [
+    {
+      "institution": "Velammal college of engineering and Technology",
+      "area": "EEE",
+      "studyType": "Regular",
+      "startDate": "2016",
+      "endDate": "2019",
+      "gpa": "6.4",
+    }
+  ],
+  "skills": [
+    {
+      "name": "C,C++,HTML,CSS,JavaScript,PHP,Laravel,AWS,MONGODB, MYSQL,NODE JS,",
+    }
+  ],
+  "languages": {
+   "language1": {
+      "language": "Tamil",
+      "fluency": "Expert"
+    },
+    "language2": {
+      "language": "English",
+      "fluency": "Normal"
+    }
+
+  },
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Cricket"
+      ]
+    }
+  ]
+}
